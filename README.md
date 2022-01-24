@@ -2,9 +2,9 @@
 
 <p style="text-align: center;">
 <h1 style="display:inline-block; vertical-align: top;"> Welcome to my github</h1>
-<span>
-<!-- <iframe src="https://giphy.com/embed/42tS2cfBtj8Y" width="100" height="100" frameBorder="0"></iframe> -->
-</span>
+<!-- <span>
+<iframe src="https://giphy.com/embed/42tS2cfBtj8Y" width="100" height="100" frameBorder="0"></iframe>
+</span> -->
 </p>
 
 <p style="text-align: center">
@@ -31,9 +31,9 @@ I'm a web developer with an eye for design. After graduating with a writing degr
 
 ## What I'm up to
 
-🎓 Web Development bootcamp with Bath Spa University
-⚛ Continuing to learn more and build things with React
-✍ Regularly write blogs and tutorials [here](https://johnpalmgren.hashnode.dev/)
+🎓 Web Development bootcamp with Bath Spa University <br>
+⚛ Continuing to learn more and build things with React <br>
+✍ Regularly write blogs and tutorials [here](https://johnpalmgren.hashnode.dev/) <br>
 
 
 ## Skills
