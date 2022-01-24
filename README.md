@@ -1,11 +1,11 @@
 <img src="./banner.png" alt="John Palmgren web developer and technical writer" />
 
-<div style="text-align: center;">
+<p style="text-align: center;">
 <h1 style="display:inline-block; vertical-align: top;"> Welcome to my github</h1>
 <span>
-<iframe src="https://giphy.com/embed/42tS2cfBtj8Y" width="100" height="100" frameBorder="0"></iframe>
+<!-- <iframe src="https://giphy.com/embed/42tS2cfBtj8Y" width="100" height="100" frameBorder="0"></iframe> -->
 </span>
-</div>
+</p>
 
 <p style="text-align: center">
 <a href="https://twitter.com/john_palmgren">
