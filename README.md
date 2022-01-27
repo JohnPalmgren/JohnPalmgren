@@ -23,7 +23,7 @@
 <a href="https://johnpalmgren.hashnode.dev/">
 <img style="margin-left:0.5rem;" src="./hashnode.png" alt="blog"/>
 </a>
-<a href="mailto:johnmpalmgren@gmail.com.com">
+<a href="mailto:contact@johnpalmgren.co.uk">
 <img style="margin-left:0.5rem;" src="./email.png" alt="email"/>
 </a>
 </p>
@@ -43,45 +43,58 @@ I'm a web developer with an eye for design. After graduating with a writing degr
 
 ## Skills
 
-<div>
+<!-- <div>
 <p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px;"> React </p>
+<div style="display: inline-block; margin-left:.5rem;"> -->
 
-<div style="display: inline-block; margin-left:.5rem;">
+**React**
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
-</div>
-</div>
+<!-- </div>
+</div> -->
 
-<div>
+<!-- <div>
 <p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> JavaScript </p>
-<div style="display: inline-block; margin-left:.5rem;">
+<div style="display: inline-block; margin-left:.5rem;"> -->
+
+**JavaScript**
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
-</div>
-</div>
 
-<div>
+<!-- </div>
+</div> -->
+
+<!-- <div>
 <p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> CSS </p>
-<div style="display: inline-block; margin-left:.5rem;">
+<div style="display: inline-block; margin-left:.5rem;"> -->
+
+**CSS**
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
-</div>
-</div>
 
-<div>
+<!-- </div>
+</div>
+ -->
+<!-- <div>
 <p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> HTML </p>
-<div style="display: inline-block; margin-left:.5rem;">
+<div style="display: inline-block; margin-left:.5rem;"> -->
+
+**HTML**
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-</div>
-</div>
 
-<div>
+<!-- </div>
+</div> -->
+
+<!-- <div>
 <p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> Python </p>
-<div style="display: inline-block; margin-left:.5rem;">
+<div style="display: inline-block; margin-left:.5rem;"> -->
+
+**Python**
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-</div>
-</div>
+
+<!-- </div>
+</div> -->
 
