@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/johnpalmgren/">
 <img style="margin-left:0.5rem;" src="./linkedin.png" alt="linkedIn"/>
 </a>
-<a href="https://portfoliositemain06643.gatsbyjs.io/">
+<a href="http://johnpalmgren.co.uk/">
 <img style="margin-left:0.5rem;" src="./website.png" alt="website"/>
 </a>
 <a href="https://johnpalmgren.hashnode.dev/">
@@ -32,7 +32,7 @@
 
 ---
 ## About Me
-I'm a web developer with an eye for design. After graduating with a writing degree from Bath Spa University, I started working for Royal Mail, where I now work as a manager. When I'm not at work, I enjoy building things for the web using React and JavaScript. I also write a blog where I give help and advice to those beginning in programming. If I've got any time left at the end of the day, I work on my side-side project: a raspberry pi HiFi system that displays album information for the currently playing song. 
+I'm a web developer with an eye for design. After graduating with a writing degree from Bath Spa University, I started working for Royal Mail, where I now work as a manager. When I'm not at work, I enjoy building things for the web using React and JavaScript. I also write a [blog](https://johnpalmgren.hashnode.dev/) where I give help and advice to those beginning in programming. If I've got any time left at the end of the day, I work on my side-side project: a raspberry pi HiFi system that displays album information for the currently playing song. 
 
 ## What I'm up to
 
