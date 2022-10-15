@@ -11,9 +11,6 @@
 
 
 <p style="text-align: center">
-<a href="https://twitter.com/john_palmgren">
-<img src="./twitter.png" alt="twitter"/>
-</a>
 <a href="https://www.linkedin.com/in/johnpalmgren/">
 <img style="margin-left:0.5rem;" src="./linkedin.png" alt="linkedIn"/>
 </a>
@@ -32,80 +29,37 @@
 
 ---
 ## About Me
-I'm a web developer with an eye for design. After graduating with a writing degree from Bath Spa University, I started working for Royal Mail, where I now work as a manager. When I'm not at work, I enjoy building things for the web using React and JavaScript. I also write a [blog](https://johnpalmgren.hashnode.dev/) where I give help and advice to those beginning in programming. If I've got any time left at the end of the day, I work on my side-side project: a raspberry pi HiFi system that displays album information for the currently playing song. 
+I'm a software developer who works with Angular, Typescript, Node, and AWS. I also have experience with React and other web technologies. My personal projects usually involve me exploring some new technology. I love learning new things, whether in the field of tech or in any of the many other areas that interest me.  
+When I'm not working I enjoy rock climbing, cycling, swimming, and playing squash. 
 
 ## What I'm up to
 
-🎓 Web Development bootcamp with Bath Spa University <br>
-⚛ Continuing to learn more and build things with React <br>
-✍ Regularly write blogs and tutorials [here](https://johnpalmgren.hashnode.dev/) <br>
+🅰 Full stack Angular developer
+⚛ Building personal projects with React
+✍ writing blogs and tutorials [here](https://johnpalmgren.hashnode.dev/) <br>
 
 
 ## Skills
 
-<!-- <div>
-<p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px;"> React </p>
-<div style="display: inline-block; margin-left:.5rem;"> -->
+- **Angular**
 
-**React**
+- **React**
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
+- **TypeScript**
 
-<!-- </div>
-</div> -->
+- **JavaScript**
 
-<!-- <div>
-<p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> JavaScript </p>
-<div style="display: inline-block; margin-left:.5rem;"> -->
+- **NodeJs**
 
-**JavaScript**
+- **PostgreSQL**
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+- **AWS**
 
-<!-- </div>
-</div> -->
+- **Python**
 
-<!-- <div>
-<p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> CSS </p>
-<div style="display: inline-block; margin-left:.5rem;"> -->
+- **CSS**
 
-**CSS**
+- **HTML**
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
-<!-- </div>
-</div>
- -->
-<!-- <div>
-<p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> HTML </p>
-<div style="display: inline-block; margin-left:.5rem;"> -->
-
-**HTML**
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-
-<!-- </div>
-</div> -->
-
-<!-- <div>
-<p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> Python </p>
-<div style="display: inline-block; margin-left:.5rem;"> -->
-
-**SASS**
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
-
-<!-- </div>
-</div> -->
-
-<!-- <div>
-<p style="display: inline-block; vertical-align:middle; font-size:1.3rem; font-weight:bold; width:110px"> Python </p>
-<div style="display: inline-block; margin-left:.5rem;"> -->
-
-**Python**
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-
-<!-- </div>
-</div> -->
 
