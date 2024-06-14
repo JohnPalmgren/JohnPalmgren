@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="John Palmgren Software developer" />
 
-<br></br>
+<h1>Hi, I'm John</h1>
 
 <img src="https://media.giphy.com/media/l0MYPVhG6OKv9yivm/giphy.gif" />
 
